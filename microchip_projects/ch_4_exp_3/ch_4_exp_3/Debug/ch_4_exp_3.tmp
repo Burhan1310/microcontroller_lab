@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\ch_4_exp_3\ch_4_exp_3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>G:/microchip_studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>G:\microchip_studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\ch_4_exp_3\ch_4_exp_3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>G:/microchip_studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+  <FILE>G:/microchip_studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\ch_4_exp_3\ch_4_exp_3\Debug\ch_4_exp_3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ch_4_exp_3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ch_4_exp_3.map</FILE>
+  <FILE>ch_4_exp_3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MYDATA><FILE>D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\ch_4_exp_3\ch_4_exp_3\main.asm</FILE><LINE>22</LINE></MYDATA>
+  <L1><FILE>D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\ch_4_exp_3\ch_4_exp_3\main.asm</FILE><LINE>13</LINE></L1>
+  <HERE><FILE>D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\ch_4_exp_3\ch_4_exp_3\main.asm</FILE><LINE>20</LINE></HERE>
+ </LABELS>
+</ASSEMBLER_INFO>

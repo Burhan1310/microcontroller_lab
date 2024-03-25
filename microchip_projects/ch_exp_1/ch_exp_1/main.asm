@@ -1,0 +1,13 @@
+;Write  an Assembly code for ADD,SUB,INC,DEC instruction
+LDI R16, 0X25 ;37
+LDI R17, 0X34 ;52
+ADD R16, R17 ; 37+52=89
+
+;SUB
+SUB R16, R17 ; 89-52=37(0X25 IN HEX)
+
+;INC
+INC R16 ;OX25+1=OX26
+
+;DEC
+DEC R16; 0X26-1=0X25

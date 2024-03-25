@@ -1,0 +1,7 @@
+
+AVRASM ver. 2.2.8  D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\chapter six\1323\1323\main.asm Tue Feb 06 02:17:43 2024
+
+[builtin](2): Including file 'G:/microchip_studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc'
+D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\chapter six\1323\1323\main.asm(1): error: Cannot find include file: AVR/IO.H
+D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\chapter six\1323\1323\main.asm(2): Including file 'G:/microchip_studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M32DEF.INC'
+D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\chapter six\1323\1323\main.asm(3): error: syntax error, unexpected FUNCTION

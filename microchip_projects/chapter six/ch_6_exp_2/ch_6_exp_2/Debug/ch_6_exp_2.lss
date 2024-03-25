@@ -1,0 +1,11 @@
+
+AVRASM ver. 2.2.8  D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\chapter six\ch_6_exp_2\ch_6_exp_2\main.asm Fri Feb 02 17:00:55 2024
+
+[builtin](2): Including file 'G:/microchip_studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc'
+D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\chapter six\ch_6_exp_2\ch_6_exp_2\main.asm(1): error: INCLUDE: Unknown instruction or macro
+D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\chapter six\ch_6_exp_2\ch_6_exp_2\main.asm(1): error: Invalid character: '“' (0x93)
+
+D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\chapter six\ch_6_exp_2\ch_6_exp_2\main.asm(1): error: M32DEF.INC: Unknown instruction or macro
+D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\chapter six\ch_6_exp_2\ch_6_exp_2\main.asm(1): error: Invalid character: '”' (0x94)
+
+D:\Classes\Sixth Semester\microcontroler lab\microchip_projects\chapter six\ch_6_exp_2\ch_6_exp_2\main.asm(2): error: syntax error, unexpected INTEGER, expecting '='

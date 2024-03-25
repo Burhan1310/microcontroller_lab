@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="1">
+  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff490a00000f00000057100000f3030000</PLACEMENT>
+  <WINDOW type="default" module="ISIS"/>
+  <WINDOW type="default" module="VSMSTUDIO">
+   <FILE NAME="D:/Classes/Sixth Semester/microcontroler lab/AVR_C/exp_8/ATMEGA32/main.asm"/>
+   <FILE NAME="D:/Classes/Sixth Semester/microcontroler lab/AVR_C/exp_8/ATMEGA32/main.c"/>
+   <STATE NAME="EDIT" VALUE="AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAADmfwCAAAAAfsAAAAQAFAAcgBvAGoAZQBjAHQAcwEAAAAAAAADmQAAASwA////AAAAAwAACVgAAADa/AEAAAAB+wAAACAATwB1AHQAcAB1AHQARABvAGMAawBXAGkAZABnAGUAdAEAAAAAAAAJWAAAAFcA////AAAIUwAAA5kAAAAEAAAABAAAAAgAAAAI/AAAAAA="/>
+  </WINDOW>
+ </FRAME>
+ <MODULE name="VSMDEBUG">
+  <PWI/>
+ </MODULE>
+</WORKSPACE>
